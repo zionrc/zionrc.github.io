@@ -8,4 +8,4 @@ The official website
 -   proj https://github.com/TheLocehiliosan/yadm
 -   oo https://github.com/alexanderepstein/Bash-Snippets
 -   https://www.quora.com/What-are-some-Bash-shell-projects-that-I-can-follow
-
+-   https://sipb.mit.edu/doc/safe-shell/ 
