@@ -791,6 +791,7 @@ h6 {
 }
 
 #site-header #logo h1 {
+    font-family: monospace;
     color: #fff;
     margin: 0;
     padding: 0;
