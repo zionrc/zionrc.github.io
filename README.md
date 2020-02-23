@@ -10,3 +10,6 @@ The official website
 -   https://www.quora.com/What-are-some-Bash-shell-projects-that-I-can-follow
 -   https://sipb.mit.edu/doc/safe-shell/ 
 -   https://github.com/selivan/ansible-ssh/blob/master/ansible-ssh
+
+Powerfull bash function to parse yaml 
+-   https://stackoverflow.com/a/51789677/999329
