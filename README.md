@@ -9,3 +9,4 @@ The official website
 -   oo https://github.com/alexanderepstein/Bash-Snippets
 -   https://www.quora.com/What-are-some-Bash-shell-projects-that-I-can-follow
 -   https://sipb.mit.edu/doc/safe-shell/ 
+-   https://github.com/selivan/ansible-ssh/blob/master/ansible-ssh
